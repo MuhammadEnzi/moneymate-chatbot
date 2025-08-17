@@ -1,7 +1,6 @@
 🤖 MoneyMate: Asisten Keuangan Pribadi Berbasis AI
 MoneyMate adalah aplikasi chatbot keuangan cerdas yang dirancang untuk membantu Anda mengelola keuangan pribadi dengan cara yang modern, intuitif, dan menyenangkan. Ditenagai oleh Google Gemini API dan dibangun dengan Streamlit, MoneyMate berfungsi sebagai pelatih keuangan pribadi Anda yang selalu siap membantu.
 
-(Tips: Ganti URL di atas dengan screenshot aplikasi Anda setelah di-deploy)
 
 ✨ Fitur Utama
 📝 Pencatatan Transaksi Cerdas: Catat pemasukan dan pengeluaran dengan mudah melalui antarmuka yang bersih.
@@ -35,7 +34,7 @@ Pastikan Anda memiliki Python 3.8+ dan Git terinstal.
 
 Salin (clone) repositori ini ke komputer Anda:
 
-git clone https://github.com/username/moneymate-chatbot.git
+git clone https://github.com/MuhammadEnzi/moneymate-chatbot.git
 cd moneymate-chatbot
 
 (Ganti username/moneymate-chatbot dengan URL repositori Anda)
